@@ -1,5 +1,6 @@
 This folder consists of test-projects for honing skills of Spring Framework. It was done during this [Spring course](https://www.udemy.com/share/106mco/). \
-Each project includes *Spring Core, Spring Web MVC, PostgreSQL, Hibernate* technologies, and in addition:
+Each project includes such technologies: *Spring Core, Spring Web MVC, PostgreSQL, Hibernate* \
+and in addition:
 * ***1.0_library_JdbcTemplate***:   Apache Tomcat, Thymeleaf, JdbcTemplate.
 * ***2.0_library_SpringDataJPA***:  Apache Tomcat, Thymeleaf, Spring Data JPA.
 * ***2.1_library_SpringBoot***:     Spring Boot, Thymeleaf, Spring Data JPA.
